@@ -10,6 +10,12 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/node": "^22.9.1",
     "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "threads": "^1.7.0",
+    "workerpool": "^9.2.0"
   }
 }
